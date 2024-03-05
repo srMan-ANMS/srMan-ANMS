@@ -1,18 +1,30 @@
 ### Hi there 👋
+쉽게 가지지 못하는 가치를 품은 신입 개발자입니다.
 
-학력👨‍🎓
-- 연세대학교 의공학부(2019)
+경험과 실력의 부족은, 팀과 조화를 이루며 빠르게 성장하는 것으로 해결하겠습니다.
+
+스킬⚡
+- Spring Boot, AWS(EC2, S3), Oracle 19c, HTML/CSS/Javascript, jQuery
+
+배우는 중🌱
+- Spring Boot 심화, 네트워크 관리사 2급, SQLD 개발자
 
 언어👄
 - 영어 : OPIc IH, TOEIC 850
 
+가치💬
+- 향상심
+- 단점 수용/개선
+- 앎의 범위를 적극적으로 넓힘
+- 수학 공부중
+
+학력👨‍🎓
+- 연세대학교 미래캠퍼스 의공학부(2019)
+
 교육📜
 - KH정보교육원 '자바기반 반응형 UI/UX 웹 콘텐츠 개발자 양성과정' 이수 (2023)
 
-자기소개📣
-- 인생 전반부에서 얻은 큰 보물인 향상심을 가지고 살아갑니다.
-- 수학에 관심이 많습니다!(이학사 과정 밟을 예정)
-- 원리를 파고드는 학자 스타일이에요. 비전공자이지만 전공자 못지않게 배울 겁니다!
+  
 
 <!--
 **srMan-ANMS/srMan-ANMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
