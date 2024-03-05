@@ -3,6 +3,8 @@
 
 경험과 실력의 부족은, 팀과 조화를 이루며 빠르게 성장하는 것으로 해결하겠습니다.
 
+**이력서 : https://polite-gas-20d.notion.site/e225bca1324f4530b1914bf39590a56a?pvs=4**
+
 스킬⚡
 - Spring Boot, AWS(EC2, S3), Oracle 19c, HTML/CSS/Javascript, jQuery
 
@@ -16,6 +18,7 @@
 - 향상심
 - 단점 수용/개선
 - 앎의 범위를 적극적으로 넓힘
+- 함께 성장하는 환경 추구
 - 수학 공부중
 
 학력👨‍🎓
